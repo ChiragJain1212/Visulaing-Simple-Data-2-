@@ -1,2 +1,1 @@
-# Visulaing-Simple-Data-2-
-
+Visualising a simple data
